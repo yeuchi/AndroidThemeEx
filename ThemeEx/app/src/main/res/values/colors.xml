@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+
+    <color name="colorPrimaryVariant">#FFFF00</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#2962FF</color>
+    <color name="colorSecondaryVariant">#0039CB</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorError">#F44336</color>
+    <color name="colorOnError">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#FFFF99</color>
+
+    <color name="background">#EEFFEE</color>
+    <color name="background_dark">#000000</color>
+
+    <!-- alert dialog -->
+    <color name="alert_dialog_background">#AAAAAA</color>
+    <color name="alert_dialog_accent">#FFC107</color>
+    <color name="alert_dialog_textColorPrimary">#0000FF</color>
+    <color name="alert_dialog_btnColor">#AAFF88</color>
+</resources>
