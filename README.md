@@ -8,17 +8,17 @@ Material Design, Light Dark mode Theme Exercise.
 <img width="220" alt="Screen Shot 2020-08-02 at 7 50 36 PM" src="https://user-images.githubusercontent.com/1282659/89136457-80bc7100-d4f9-11ea-9eb0-4d3625192cc8.png"> <img width="220" alt="Screen Shot 2020-08-02 at 7 40 56 PM" src="https://user-images.githubusercontent.com/1282659/89136460-831ecb00-d4f9-11ea-9a1a-265785fca485.png">
 
 ### Note
-Launch a dialog in Activity.onCreate() will cause a problem with dark mode.
+Launch a dialog in Activity.onCreate() will cause a problem with dark mode. \
 It would only render light mode.
 
 # References
 
-1. Dark Theme, Google Material Design Document
+1. Dark Theme, Google Material Design Document \
 https://material.io/develop/android/theming/dark
 
-2. Setting up a Material Components theme for Android by Nick Rout, Jan 23, 2019
+2. Setting up a Material Components theme for Android by Nick Rout, Jan 23, 2019 \
 https://medium.com/over-engineering/setting-up-a-material-components-theme-for-android-fbf7774da739
 
-3. How to use and style new AlertDialog from appCompat 22.1 and above by michael.flathe@gmail.com, April 22, 2015
+3. How to use and style new AlertDialog from appCompat 22.1 and above by michael.flathe@gmail.com, April 22, 2015 \
 https://stackoverflow.com/questions/29797134/how-to-use-and-style-new-alertdialog-from-appcompat-22-1-and-above
 
