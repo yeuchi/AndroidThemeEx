@@ -7,7 +7,7 @@ Material Design, Light Dark mode Theme Exercise.
 ### AlertDialog - Dark Mode 
 <img width="220" alt="Screen Shot 2020-08-02 at 7 50 36 PM" src="https://user-images.githubusercontent.com/1282659/89136457-80bc7100-d4f9-11ea-9eb0-4d3625192cc8.png"> <img width="220" alt="Screen Shot 2020-08-02 at 7 40 56 PM" src="https://user-images.githubusercontent.com/1282659/89136460-831ecb00-d4f9-11ea-9a1a-265785fca485.png">
 
-### Notes
+### Notes [ Google bug ]
 Launch a dialog in Activity.onCreate() will cause a problem with dark mode. \
 It would only render light mode.
 
