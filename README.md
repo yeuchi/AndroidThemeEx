@@ -7,9 +7,26 @@ Material Design, Light Dark mode Theme Exercise.
 ### AlertDialog - Dark Mode 
 <img width="220" alt="Screen Shot 2020-08-02 at 7 50 36 PM" src="https://user-images.githubusercontent.com/1282659/89136457-80bc7100-d4f9-11ea-9eb0-4d3625192cc8.png"> <img width="220" alt="Screen Shot 2020-08-02 at 7 40 56 PM" src="https://user-images.githubusercontent.com/1282659/89136460-831ecb00-d4f9-11ea-9a1a-265785fca485.png">
 
-### Note
+### Notes
 Launch a dialog in Activity.onCreate() will cause a problem with dark mode. \
 It would only render light mode.
+
+### Android Studio 4.0
+Build #AI-193.6911.18.40.6514223, built on May 20, 2020 \
+Runtime version: 1.8.0_242-release-1644-b3-6222593 x86_64 \
+VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o \
+macOS 10.15.5 \
+GC: ParNew, ConcurrentMarkSweep \
+Memory: 1981M \
+Cores: 8 
+
+### Phone
+Samsung Galaxy S9 \
+Model # SM-G960U \
+Hardware version REV1.1 \
+Android version 10 \
+Kernel version 4.9.186 \
+Knox version 3.4.1 
 
 # References
 
